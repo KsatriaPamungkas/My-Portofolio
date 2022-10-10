@@ -1,0 +1,40 @@
+
+
+                                        /* INI CSS BAKSOKITA */
+
+
+*, body {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+.logo-img {
+        width: 40px;
+        height: 40px;
+        margin-left:auto ;
+}
+
+.rounded{
+    height: 10rem;
+    width: auto;
+}
+
+
+
+.card-header{
+    background-color:green;
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: green;
+    border-bottom: 1px solid rgba(0,0,0,.8);
+}
+
+.card-header:first-child {
+    background-color: green;
+    border-bottom: 1px solid rgba(0,0,0,.6);
+}
